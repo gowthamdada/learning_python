@@ -4,5 +4,5 @@ def fact(n):
     return n * fact(n-1)
 
 print("enter the number")
-a = int(input())
-print ("factorial",fact(a))
+b = int(input())
+print ("factorial",fact(b))
